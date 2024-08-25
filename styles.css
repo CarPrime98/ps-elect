@@ -149,3 +149,12 @@ section{
       width: 80px; /* Ajusta el tamaño del logo aún más para pantallas muy pequeñas */
     }
   }
+@media (max-width: 768px) {
+  header {
+    padding: 10px;
+  }
+
+  .logo {
+    width: 100px; /* Ajusta el tamaño del logo para pantallas pequeñas */
+  }
+}
