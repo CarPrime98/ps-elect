@@ -176,18 +176,29 @@ section{
 @media (max-width:768px){
     header{
         flex-direction: column;
+                justify-content: center;
+        align-items: center;
+        text-align: center;
     }
     section{
         flex-direction: column;
         margin: auto;
+                justify-content: center;
+        align-items: center;
+        text-align: center;
     }  
     .contact{
         flex-direction: column;
         margin: auto;
+                justify-content: center;
+        align-items: center;
+        text-align: center;
+        
     }
     body{
         justify-content: center;
         align-items: center;
+        text-align: center;
         background: none;
         background-color: #000;
     }
