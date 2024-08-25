@@ -176,13 +176,15 @@ section{
 @media (max-width:768px){
     header{
         flex-direction: column;
+     margin: auto;
     }
     section{
         flex-direction: column;
+                margin: auto;
     }  
     .contact{
         flex-direction: column;
-        margin:80px;
+        margin: auto;
     }
     body{
         flex-direcion:column;
