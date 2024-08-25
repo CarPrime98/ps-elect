@@ -186,6 +186,8 @@ section{
     }
     body{
         flex-direcion:column;
-        
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
 }
