@@ -140,18 +140,3 @@ section{
     border-color: #000;
     font-weight: bold;
   }
-
-  @media (max-width: 480px) {
-   body{
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    font-family: arsenica;
-    background-image: url(./1.png);
-    background-attachment: fixed;
-    color: #ffbd59;
-}
-    .logo {
-      width: 80px; /* Ajusta el tamaño del logo aún más para pantallas muy pequeñas */
-    }
-  }
