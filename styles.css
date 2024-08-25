@@ -187,5 +187,6 @@ section{
     body{
         background: none;
         background-color: #000;
+        background-size: cover;
     }
 }
