@@ -173,7 +173,7 @@ section{
     font-weight: bold;
   }
 
-@media (max-width: 768px){
+@media (max-width:768px){
     header{
         flex-direction: column;
     }
@@ -182,7 +182,7 @@ section{
     }  
     .contact{
         flex-direction: column;
-            margin: 20px;
+        margin: 50px;
     }
     body{
         background: none;
