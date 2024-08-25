@@ -185,6 +185,7 @@ section{
             margin: 20px;
     }
     body{
-        background-color: red;
+        background: none;
+        background-color: #000;
     }
 }
