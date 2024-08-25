@@ -186,6 +186,8 @@ section{
         margin: auto;
     }
     body{
+        justify-content: center;
+        align-items: center;
         background: none;
         background-color: #000;
     }
