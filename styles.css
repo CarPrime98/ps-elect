@@ -173,7 +173,7 @@ section{
     font-weight: bold;
   }
 
-@media (max-width:480px){
+@media (max-width: 768px){
     header{
         flex-direction: column;
     }
@@ -185,8 +185,6 @@ section{
             margin: 20px;
     }
     body{
-        background: none;
-        background-color: #000;
-        background-size: cover;
+        background-color: black;
     }
 }
