@@ -142,8 +142,10 @@ section{
   }
 
   @media (max-width: 480px) {
+      body{
+            background-attachment: fixed;  
+      }
     .logo {
       width: 80px; /* Ajusta el tamaño del logo aún más para pantallas muy pequeñas */
-      margin:0;
     }
   }
