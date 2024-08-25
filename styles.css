@@ -179,10 +179,11 @@ section{
     }
     section{
         flex-direction: column;
+        margin: auto;
     }  
     .contact{
         flex-direction: column;
-        margin: 50px;
+        margin: auto;
     }
     body{
         background: none;
