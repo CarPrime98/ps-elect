@@ -187,7 +187,7 @@ section{
         margin: auto;
     }
     body{
-        background-position: right;
+        background: none;
         flex-direcion:column;
         justify-content: center;
         align-items: center;
