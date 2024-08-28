@@ -187,6 +187,7 @@ section{
         margin: auto;
     }
     body{
+        background: black;
         background: none;
         flex-direcion:column;
         justify-content: center;
