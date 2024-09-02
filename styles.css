@@ -187,8 +187,8 @@ section{
         margin: auto;
     }
     body{
-          background-color: #000;
         background: none;
+        background-color: #000;
         flex-direcion:column;
         justify-content: center;
         align-items: center;
