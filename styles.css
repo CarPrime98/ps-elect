@@ -186,6 +186,9 @@ section{
         flex-direction: column;
         margin: auto;
     }
+    h1{
+      font-size: auto;
+    }
     body{
         background: none;
         background-color: #000;
