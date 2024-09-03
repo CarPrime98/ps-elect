@@ -187,10 +187,11 @@ section{
         margin: auto;
     }
     body{
+        background: none;
         background-color: #000;
-        flex-direcion:column;
         justify-content: center;
         align-items: center;
         text-align: center;
+        flex-direction: column;
     }
 }
